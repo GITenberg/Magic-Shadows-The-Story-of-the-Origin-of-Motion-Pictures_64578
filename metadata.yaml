@@ -1,0 +1,45 @@
+_repo: Magic-Shadows-The-Story-of-the-Origin-of-Motion-Pictures_64578
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Curtis, Edward Peck
+    birthdate: 1897
+    deathdate: 1987
+    gutenberg_agent_id: '52961'
+    url: http://www.gutenberg.org/2009/agents/52961
+    wikipedia: https://en.wikipedia.org/wiki/Edward_Peck_Curtis
+creator:
+  author:
+    agent_name: Quigley, Martin
+    aliases:
+    - Quigley, Martin Schofield
+    - Quigley, Martin S.
+    birthdate: 1917
+    deathdate: 2011
+    gutenberg_agent_id: '52969'
+    url: http://www.gutenberg.org/2009/agents/52969
+    wikipedia: https://en.wikipedia.org/wiki/Martin_Quigley_Jr.
+description: ''
+gutenberg_issued: '2021-02-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64578'
+  lccn: '60014797'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TR'
+- !lcsh 'Motion pictures -- History'
+- !lcsh 'Lantern projection'
+- GITenberg
+tableOfContents: 'Foreword -- Introduction -- It started with "A" -- Friar Bacon''s
+  magic -- Da Vinci''s camera -- Porta, first screen showman -- Kepler and the stars
+  -- Kircher''s 100th art -- Popularizing Kircher''s projector -- Musschenbroek and
+  motion -- Phantasmagoria -- Dr. Paris'' toy -- Plateau creates motion pictures --
+  The baron''s projector -- The Langenheims of Philadelphia -- Marey and movement
+  -- Edison''s peep-show -- First steps -- World premieres -- Appendix I: Chronology
+  -- Appendix II: Bibliography.'
+title: 'Magic Shadows: The Story of the Origin of Motion Pictures'
+url: http://www.gutenberg.org/ebooks/64578
