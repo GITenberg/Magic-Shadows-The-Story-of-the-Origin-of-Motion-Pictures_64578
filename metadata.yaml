@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '52961'
     url: http://www.gutenberg.org/2009/agents/52961
     wikipedia: https://en.wikipedia.org/wiki/Edward_Peck_Curtis
+covers:
+- cover_type: archival
+  image_path: 64578-h/images/cover.jpg
 creator:
   author:
     agent_name: Quigley, Martin
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/52969
     wikipedia: https://en.wikipedia.org/wiki/Martin_Quigley_Jr.
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64578#Magic-Shadows-The-Story-of-the-Origin-of-Motion-Pictures
 gutenberg_issued: '2021-02-16'
 gutenberg_type: Text
 identifiers:
